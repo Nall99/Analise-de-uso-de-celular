@@ -15,7 +15,7 @@ O conjunto de dados contém informações sobre o número de telefones celulares
 - 🏆 Ranking mundial
 
 ### Fonte dos Dados
-Os dados foram extraídos de um arquivo CSV do Kaggle contendo informações estruturadas sobre o uso de dispositivos móveis por país no ano de 2022 e 2023.
+Os dados foram extraídos de um arquivo CSV do [Kaggle][https://www.kaggle.com/datasets/memoonaqaiser/mobile-phone-usage/data] contendo informações estruturadas sobre o uso de dispositivos móveis por país no ano de 2022 e 2023.
 
 ## 🧩 Dicionário de Dados
 | Coluna                | Descrição                                                |
