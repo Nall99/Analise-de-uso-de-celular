@@ -51,7 +51,7 @@ Os dados foram extraídos de um arquivo CSV do [Kaggle](https://www.kaggle.com/d
 ## 🚀 Como Executar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/mobile-phone-usage.git
+git clone https://github.com/Nall99/Analise-de-uso-de-celular.git
 ```
 2. Instale as dependências:
 ```bash
